@@ -7,3 +7,15 @@
 <br>
 <p> result</p>
 <img src="images/TP-BDCC-IOC-IMG2.png">
+
+<br>
+
+<h1> DYNAMIC INSTANTIATION </h1>
+
+<P> WEAK coupling in presentation layer </P>
+<br>
+
+<img src="images/TP-BDCC-IOC-IMG3.png">
+<br>
+<p> result</p>
+<img src="images/TP-BDCC-IOC-IMG4.png">

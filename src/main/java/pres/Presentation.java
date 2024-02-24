@@ -6,8 +6,11 @@ import dao.IDaopImplV2;
 import metier.IMetier;
 import metier.IMetierImpl;
 
+import java.util.Scanner;
+
 public class Presentation {
     public static void main(String[] args) {
+
 
         System.out.println("********* Static instantiation ********");
         System.out.println();
