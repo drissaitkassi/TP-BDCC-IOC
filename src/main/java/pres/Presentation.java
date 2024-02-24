@@ -2,11 +2,8 @@ package pres;
 
 import dao.IDao;
 import dao.IDaoImpl;
-import dao.IDaopImplV2;
-import metier.IMetier;
+import ext.IDaopImplV2;
 import metier.IMetierImpl;
-
-import java.util.Scanner;
 
 public class Presentation {
     public static void main(String[] args) {

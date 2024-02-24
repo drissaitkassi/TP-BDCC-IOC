@@ -28,3 +28,12 @@
 <br>
 <p> result</p>
 <img src="images/TP-BDCC-IOC-IMG5.png">
+
+
+<br>
+
+<h1> SPRING WITH ANNOTATIONS BASED CONFIG </h1>
+
+<br>
+<p> result</p>
+<img src="images/TP-BDCC-IOC-IMG6.png">

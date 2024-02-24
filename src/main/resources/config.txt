@@ -1,2 +1,2 @@
-dao.IDaopImplV2
+ext.IDaopImplV2
 metier.IMetierImpl
