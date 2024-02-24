@@ -19,3 +19,12 @@
 <br>
 <p> result</p>
 <img src="images/TP-BDCC-IOC-IMG4.png">
+
+
+<br>
+
+<h1> SPRING WITH XML CONFIG </h1>
+
+<br>
+<p> result</p>
+<img src="images/TP-BDCC-IOC-IMG5.png">
